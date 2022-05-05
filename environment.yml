@@ -1,0 +1,10 @@
+name: oreka-ga
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - numpy
